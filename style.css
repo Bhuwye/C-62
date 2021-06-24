@@ -1,0 +1,108 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: white;
+}
+
+.container
+{
+    text-align: center;
+}
+
+/*Start your code from here */
+
+.menu1 {
+    position:fixed;
+    background:white;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+}
+    
+h1 {
+
+    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: 300;
+    padding-top:50px;
+    color:coral;
+
+}
+
+h2 {
+
+    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:coral;
+
+}
+
+h3 {
+
+    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:coral;
+    
+
+}
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+
+.links {
+    display:inline;
+    padding:30px;
+    font-size:30px;
+    
+}
+
+.links:hover{
+    text-decoration:underline;
+    font-size:35px;
+}
+
+body{
+    text-align:center;
+}
+
+#flower{
+    width:780px;
+    height:563px;
+}
+
+img{
+    width:350px;
+    height:350px;
+}
+
+myCarousel{
+    background-color:blue;
+}
+
+.hello{
+    display:inline;
+}
+
+#myCarousel img{
+    height:200px;
+    margin-top:20px;
+}
+
+.carousel-inner p{
+  margin-top:15px;
+    margin-bottom:15px;
+    color:blueviolet;
+    font-size:20px; 
+}
+
+p{
+    font-size:20px;
+}
